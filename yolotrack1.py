@@ -52,9 +52,7 @@ while True:
             cvzone.putTextRect(frame,f'{c}',(x1,y1),1,1)      
 
                
-            cv2.imshow("RGB", frame)
-
-    
+    cv2.imshow("RGB", frame)
     if cv2.waitKey(1) & 0xFF == ord("q"):
        break
 
