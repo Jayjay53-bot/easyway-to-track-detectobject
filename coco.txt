@@ -73,6 +73,8 @@ sink
 refrigerator
 book
 clock
+fish
+fingerlings
 vase
 scissors
 teddy bear
